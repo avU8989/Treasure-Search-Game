@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Build-Timestamp: 2023-04-02T08:25:36.522+0200
+Created-By: Gradle 7.6
+Build-Jdk: 17.0.5 (Eclipse Adoptium 17.0.5+8)
+Built-By: esad
+Build-OS: Linux amd64 5.17.0-1-amd64
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: server.main.MainServer
+Spring-Boot-Version: 2.7.8
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Classpath-Index: BOOT-INF/classpath.idx
+Spring-Boot-Layers-Index: BOOT-INF/layers.idx
+
